@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+section {
+  margin: 32px auto 0;
+  border: 1px solid yellow;
+  border-radius: 8px;
+  width: 500px;
+}
+h1 {
+  text-align: center;
+  background-color: aqua;
+  padding: 8px;
+}
+
+p {
+  background-color: pink;
+  padding: 8px;
+  text-align: right;
+  /* width: 50%; */
+  height: 80px;
+  /* border: 8px blue double; */
+  margin-top: 16px;
+  box-sizing: border-box;
+  overflow: auto;
+  /* border-radius: 5px 40px 10px 50px; */
+  /* box-shadow: 0 0 24px 2px gray; */
+  line-height: 1.6;
+}
